@@ -1,4 +1,5 @@
 # HCal-Prototype-Cosmics
+This page is still being edited.
 In this project I have implemented a geometry description, in the LDMX software, of the HCal prototype that will be assembled at SLAC to measure cosmic muons. Cosmic muon simulations have also been performed and the interactions with the detector have been analyzed.  
 
 ## Geometry implementation
