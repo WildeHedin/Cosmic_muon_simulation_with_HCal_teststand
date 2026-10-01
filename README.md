@@ -1,5 +1,5 @@
 # Cosmic muon simulation with HCal test-stand
-In this project I have implemented a geometry description in the LDMX software of the hadronic calorimeter components of the test-stand that will be assembled at SLAC to measure cosmic muons. Cosmic muon simulations have also been performed and the interactions with the detector have been analyzed.  
+This code was developed for the thesis ["Cosmic muon simulation with a new HCal prototype geometry at LDMX"](https://lup.lub.lu.se/student-papers/search/publication/9246704). In this project I have implemented a geometry description in the [ldmx-sw](https://github.com/LDMX-Software/ldmx-sw) of the hadronic calorimeter components of the test-stand that will be assembled at SLAC to measure cosmic muons. Cosmic muon simulations have also been performed and the interactions with the detector have been analyzed.  
 
 ## Geometry implementation
 Two main files have been created and modified during this project: A GDML file, which provides detector information to Geant4, and a python file, which provides detector information to ldmx-sw. These two files can be found in the folder NewGeometry and have been included in ldmx-sw v4.9.2. 
