@@ -24,5 +24,5 @@ then run:
 denv fire cosmic_config_teststand.py lheData/name_of_file.lhe 
 
 ### Analyze
-The file analyse_rechits.py performs the analysis of the reconstructed data presented in my thesis, while analyse_simhits.py analyses the truth-level data. analyze_simhits.py might have to be modified if future changes are made to the GDML file.
+The file analyze_rechits.py performs the analysis of the reconstructed data presented in my thesis, while analyze_simhits.py analyzes the truth-level data. analyze_simhits.py might have to be modified if future changes are made to the GDML file.
 
