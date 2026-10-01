@@ -8,7 +8,7 @@ Two main files have been created and modified during this project: A GDML file, 
 Before getting started denv must be installed according to https://ldmx-software.github.io/. The version must be v4.9.2 or later. 
 
 ### Generate a LHE-file
-First an LHE-file with must be created to store initial information about the cosmic muons. 
+First an LHE-file must be created to store initial information about the cosmic muons. 
 
 Run: denv python3 lheData/cosmic_muon_lhe_generator.py --numEvents=xx --detector=HcalCosmic
 
