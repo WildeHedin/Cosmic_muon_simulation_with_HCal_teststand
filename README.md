@@ -5,6 +5,10 @@ In this project I have implemented a geometry description in the LDMX software o
 Two main files have been created and modified during this project: A GDML file, which provides detector information to Geant4, and a python file, which provides detector information to ldmx-sw. These two files can be found in the folder NewGeometry and have been included in ldmx-sw v4.9.2. 
 
 ## Generate simulation samples
+
+### Getting started
+Denv must be installed according to https://ldmx-software.github.io/
+
 ### Generate a LHE-file
 An LHE-file contains initial information about the cosmic muons. 
 
