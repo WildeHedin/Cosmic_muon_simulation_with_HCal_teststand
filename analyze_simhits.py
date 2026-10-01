@@ -9,7 +9,7 @@ import pylandau
 import numpy as np
 import matplotlib.ticker as ticker
 
-with uproot.open('check.root') as f:
+with uproot.open('name_of_file.root') as f:
     events = f['LDMX_Events'].arrays()
 
 
