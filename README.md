@@ -1,4 +1,4 @@
-# HCal-Prototype-Cosmics
+# Cosmic muon simulation with HCal test-stand
 In this project I have implemented a geometry description in the LDMX software of the hadronic calorimeter components of the test-stand that will be assembled at SLAC to measure cosmic muons. Cosmic muon simulations have also been performed and the interactions with the detector have been analyzed.  
 
 ## Geometry implementation
