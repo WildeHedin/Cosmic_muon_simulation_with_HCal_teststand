@@ -11,7 +11,7 @@ import numpy as np
 #OPEN ROOT FILE
 #-------------------------
 
-with uproot.open('check.root') as f:
+with uproot.open('name_of_file.root') as f:
     events = f['LDMX_Events'].arrays()
 
 
